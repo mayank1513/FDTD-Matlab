@@ -4,4 +4,10 @@ Please download all the files in one folder and run Band_Diagram_main.m, Band_Di
 
 You can modifiy Band_Diagram_main.m file to obtained desired results.
 
+Please Quote 
+
+M. K. Chaudhari, “Non-conventional discretization grid based FDTD for EM wave propagation in magnetized plasma metallic photonic crystal,” Prog. Electromagn. Res. M, vol. 49, 2016.
+
+M. K. Chaudhari and S. Chaudhari, “Tuning photonic bands in plasma metallic photonic crystals,” Phys. Plasmas, vol. 23, no. 11, p. 112118, 2016.
+
 For any asssistance reach out to me at mayank.srmu@gmail.com
