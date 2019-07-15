@@ -18,6 +18,8 @@ We have set up probes in stratagic points to probe the field profile with respec
 
 *This code automatically generates and saves E-K diagrams for different values or r/a ratio and plasma frequencies. This is a very valuable feature as it practically automates all your work. To speed up the process, simulations are deviced in three files Band_Diagram_main.m, Band_Diagram_main_1.m and Band_Diagram_main_2.m which you can run on separate machines and then combine the results.*
 
+For details you may refer to my research papers quoted below. Thank you.
+
 ## What if I ant to visualize the fields as they are evolving.
 - Go ahead and edit the time_march_PMPC_TE.m and time_march_PMPC_TM. Hopefully you just need to uncoment a few lines.
 
