@@ -23,7 +23,7 @@ For details you may refer to my research papers quoted below. Thank you.
 ## What if I ant to visualize the fields as they are evolving.
 - Go ahead and edit the time_march_PMPC_TE.m and time_march_PMPC_TM. Hopefully you just need to uncoment a few lines.
 
-## HOw do I use these codes
+## How do I use these codes
 Please download all the files in one folder and run Band_Diagram_main.m, Band_Diagram_main1.m, or Band_Diagram_main2.m to generate photonic bnd diagrams for different parameters. All figure and .mat files are generated and stored in systematic directories.
 
 You can modifiy Band_Diagram_main.m file to obtained desired results.
